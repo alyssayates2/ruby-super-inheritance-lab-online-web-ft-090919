@@ -4,7 +4,7 @@ class Student
 
   phrase = "I never use my brain"
 
-  def initialize(phrase)
+  def initialize
     @phrase = phrase
   end
 
