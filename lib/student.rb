@@ -1,6 +1,6 @@
 class Student
 
   def hello
-    student.hello
+    Student.hello
   end
 end
