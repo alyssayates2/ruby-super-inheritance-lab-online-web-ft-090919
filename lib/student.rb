@@ -6,7 +6,7 @@ class Student
 
   def initialize(phrase)
     @phrase = phrase
-  end 
+  end
 
   def hello
     phrase 
