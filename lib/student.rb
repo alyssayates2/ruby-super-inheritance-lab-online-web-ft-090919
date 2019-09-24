@@ -1,6 +1,6 @@
 class Student
 
   def hello
-    puts Student.new.hello 
+    Student.new.hello 
   end
 end
