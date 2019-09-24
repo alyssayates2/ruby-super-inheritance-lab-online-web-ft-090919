@@ -1,6 +1,6 @@
 class Student
 
   def hello
-    "#hello"
+    student.hello
   end
 end
