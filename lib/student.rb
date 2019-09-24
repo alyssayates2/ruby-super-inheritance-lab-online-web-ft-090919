@@ -8,6 +8,7 @@ class Student
     @phrase = phrase
   end 
 
-  def hello(phrase)
+  def hello
+    phrase 
   end
 end
