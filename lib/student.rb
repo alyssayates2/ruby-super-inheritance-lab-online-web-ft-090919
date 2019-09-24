@@ -1,6 +1,6 @@
 class Student
 
   def hello
-    phrase
+    "#hello"
   end
 end
