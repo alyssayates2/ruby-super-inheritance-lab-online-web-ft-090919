@@ -9,6 +9,6 @@ class Student
   end
 
   def hello
-    phrase 
+    phrase
   end
 end
